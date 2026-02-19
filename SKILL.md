@@ -3,8 +3,8 @@ name: pattern-language-application
 description: Analyze any design, system, or situation through Christopher Alexander's pattern language methodology.
 license: MIT
 metadata:
+  version: 1.0.4650
   author: sethmblack
-  version: 1.0.4649
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pattern-language-application
